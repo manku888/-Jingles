@@ -56,7 +56,7 @@
 
     {
       name:"manku-8",
-       title:"Dil Galti Kar Baitha Hai",
+       title:"Dil Galti Kar Baitha",
        Album:"king list",
        artist:"Jubin Nautiyal",
 
