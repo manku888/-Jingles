@@ -23,9 +23,9 @@
     },
     {
        name:"manku-3",
-       title:"Raataan Lambiyan",
+       title:"Raataan",
        Album:"king list",
-       artist:"Jubin Nautiyal , Asees Kaur",
+       artist:"Jubin Nautiyal",
     },
     {
       name:"manku-4",
@@ -35,7 +35,7 @@
     },
     {
       name:"manku-5",
-       title:"Khushi Jab Bhi Teri",
+       title:"Khushi Jab Bhi",
        Album:"king list",
        artist:"Jubin Nautiyal",
     },
